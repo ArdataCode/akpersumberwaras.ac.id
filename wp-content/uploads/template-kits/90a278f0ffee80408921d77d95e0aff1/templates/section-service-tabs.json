@@ -1,0 +1,387 @@
+{
+    "version": "0.4",
+    "title": "Section Service Tabs",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-other",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "291ad060",
+            "settings": {
+                "gap": "no",
+                "padding": {
+                    "unit": "px",
+                    "top": "180",
+                    "right": "0",
+                    "bottom": "180",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "20",
+                    "bottom": "100",
+                    "left": "020",
+                    "isLinked": false
+                },
+                "_title": "Electrical Services",
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "15",
+                    "bottom": "60",
+                    "left": "15",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "3304e3ae",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "space_between_widgets": 0
+                    },
+                    "elements": [
+                        {
+                            "id": "e2f414f",
+                            "settings": {
+                                "gap": "no",
+                                "content_position": "middle",
+                                "structure": "20",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": 0,
+                                    "bottom": "40",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": 0,
+                                    "bottom": "30",
+                                    "left": 0,
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "7303c2b2",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 60,
+                                        "_inline_size_tablet": 100,
+                                        "space_between_widgets": 0,
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "473b1b9d",
+                                            "settings": {
+                                                "width": {
+                                                    "unit": "px",
+                                                    "size": 40,
+                                                    "sizes": []
+                                                },
+                                                "text": "Divider",
+                                                "weight": {
+                                                    "unit": "px",
+                                                    "size": 2,
+                                                    "sizes": []
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "20",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_element_width": "auto",
+                                                "__globals__": {
+                                                    "color": "globals\/colors?id=primary"
+                                                },
+                                                "_animation": "fadeInLeft",
+                                                "animation_duration": "slow"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "divider",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "47187324",
+                                            "settings": {
+                                                "title": "Electrical Engineering",
+                                                "header_size": "h6",
+                                                "_element_width": "auto",
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=text",
+                                                    "typography_typography": "globals\/typography?id=28b1aea"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "502c184a",
+                                            "settings": {
+                                                "marker": "underline",
+                                                "before_text": "We Provide Electrical ",
+                                                "highlighted_text": "Engineering Services",
+                                                "rotating_text": "Better\nBigger\nFaster",
+                                                "alignment": "left",
+                                                "marker_color": "#202C3800",
+                                                "_margin": {
+                                                    "unit": "%",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "_margin_tablet": {
+                                                    "unit": "%",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_margin_mobile": {
+                                                    "unit": "%",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "words_color": "globals\/colors?id=secondary",
+                                                    "title_color": "globals\/colors?id=text",
+                                                    "words_typography_typography": "globals\/typography?id=secondary",
+                                                    "title_typography_typography": "globals\/typography?id=secondary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "animated-headline",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "667e3bad",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 39.9620000000000032969182939268648624420166015625,
+                                        "_inline_size_tablet": 100,
+                                        "content_position": "bottom",
+                                        "align": "flex-end",
+                                        "align_tablet": "center"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7dfc0e03",
+                                            "settings": {
+                                                "editor": "Vestibulum morbi blandit cursus risus at ultrices. Dui nunc mattis enim ut tellus. Morbi blandit cursus risus at ultrices. Proin nibh nisl condimentum id venenatis",
+                                                "align": "right",
+                                                "align_tablet": "left",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "20",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=fbe49a0",
+                                                    "text_color": "globals\/colors?id=accent"
+                                                },
+                                                "_margin_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_margin_tablet": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "16bf921d",
+                            "settings": {
+                                "tabs": [
+                                    {
+                                        "tab_title": "On-Site Testing and Commissioning",
+                                        "tab_content": "<img class=\"alignnone wp-image-1165 size-full\" src=\"https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/christopher-burns-Wiu3w-99tNg-unsplash-1.jpg\" alt=\"\" width=\"2000\" height=\"1333\" \/><br><br>\nEnim praesent elementum facilisis leo vel fringilla est ullamcorper. Placerat duis ultricies lacus sed turpis tincidunt id aliquet. Tortor at auctor urna nunc id cursus metus aliquam eleifend. Nec tincidunt praesent semper feugiat nibh sed. Erat nam at lectus urna duis. Risus ultricies tristique nulla aliquet enim tortor at auctor urna. Risus feugiat in ante metus dictum at tempor. Vulputate odio ut enim blandit volutpat maecenas",
+                                        "_id": "83fc39b"
+                                    },
+                                    {
+                                        "tab_title": "Lighting Planning and Drive Technology",
+                                        "tab_content": "<img class=\"alignnone wp-image-1147 size-full\" src=\"https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/welder-works-with-metal-on-factory-welding-skill-8V8QAYS-1.jpg\" alt=\"\" width=\"2000\" height=\"1335\" \/><br><br>\nTortor id aliquet lectus proin nibh nisl condimentum id. Mi sit amet mauris commodo quis. Nisl condimentum id venenatis a condimentum vitae. Donec massa sapien faucibus et molestie. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Nulla malesuada pellentesque elit eget",
+                                        "_id": "bb52e0f"
+                                    },
+                                    {
+                                        "tab_title": "Electrical Heating and\/\u2028or Trace Heating",
+                                        "tab_content": "<img class=\"wp-image-701 size-full\" src=\"https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2020\/08\/the-better-way-to-weld-hand-in-glove-hold-welding-HQ2WPQY.jpg\" alt=\"\" width=\"2000\" height=\"1125\" \/><br><br>\nPellentesque id nibh tortor id aliquet. Dui nunc mattis enim ut. Amet aliquam id diam maecenas. Imperdiet massa tincidunt nunc pulvinar sapien et ligula. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Etiam erat velit scelerisque in dictum non. Lorem ipsum dolor sit amet. Tempor orci eu lobortis elementum nibh tellus. At risus viverra adipiscing at in tellus integer. Id neque aliquam vestibulum morbi blandit cursus",
+                                        "_id": "6a032e6"
+                                    },
+                                    {
+                                        "tab_title": "Development of Electrical Schematics",
+                                        "tab_content": "<img class=\"alignnone wp-image-696 size-full\" src=\"https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2020\/08\/steel-factory-WHGXTPR-1.jpg\" alt=\"\" width=\"2000\" height=\"1333\" \/><br><br>\nMorbi tristique senectus et netus et malesuada fames ac. Dictum fusce ut placerat orci nulla pellentesque. Diam quis enim lobortis scelerisque. Orci eu lobortis elementum nibh tellus molestie nunc non. Elementum tempus egestas sed sed. Ultrices dui sapien eget mi proin sed. In tellus integer feugiat scelerisque. Faucibus vitae aliquet nec ullamcorper sit amet. Ut aliquam purus sit amet luctus venenatis",
+                                        "_id": "ed3f6e9"
+                                    },
+                                    {
+                                        "tab_title": "Grounding, Lightning Protection",
+                                        "tab_content": "<img class=\"alignnone wp-image-703 size-full\" src=\"https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2020\/08\/building-3Z6H5G8-1.jpg\" alt=\"\" width=\"2000\" height=\"1332\" \/><br><br>\nUltricies tristique nulla aliquet enim tortor at auctor. Sed nisi lacus sed viverra. Ut tortor pretium viverra suspendisse potenti nullam ac tortor vitae. Massa sed elementum tempus egestas. Vel risus commodo viverra maecenas accumsan. Nec feugiat nisl pretium fusce id. Luctus venenatis lectus magna fringilla urna. Nibh venenatis cras sed felis eget velit. Velit laoreet id donec ultrices tincidunt arcu non sodales neque",
+                                        "_id": "5c190af"
+                                    },
+                                    {
+                                        "tab_title": "Electrical Panel Installation, Upgrading, and Replacement",
+                                        "tab_content": "<img class=\"alignnone wp-image-418 size-full\" src=\"https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/team-of-construction-engineers-architects-working-VL4PG24-1-e1631518865334.jpg\" alt=\"\" width=\"2000\" height=\"1334\" \/><br><br>Proin sed libero enim sed. Id donec ultrices tincidunt arcu non sodales neque sodales ut. Orci sagittis eu volutpat odio facilisis mauris sit. Faucibus vitae aliquet nec ullamcorper sit amet risus nullam.",
+                                        "_id": "a0ac482"
+                                    },
+                                    {
+                                        "tab_title": "Control Systems Design and Architecture",
+                                        "tab_content": "<img class=\"wp-image-700 size-full\" src=\"https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2020\/08\/businessman-and-engineer-discussing-some-project-CAD4KRH.jpg\" alt=\"\" width=\"2000\" height=\"1333\" \/><br><br>\nEnim praesent elementum facilisis leo vel fringilla est ullamcorper. Placerat duis ultricies lacus sed turpis tincidunt id aliquet. Tortor at auctor urna nunc id cursus metus aliquam eleifend. Nec tincidunt praesent semper feugiat nibh sed. Erat nam at lectus urna duis. Risus ultricies tristique nulla aliquet enim tortor at auctor urna. Risus feugiat in ante metus dictum at tempor",
+                                        "_id": "79608d7"
+                                    }
+                                ],
+                                "type": "vertical",
+                                "navigation_width": {
+                                    "unit": "%",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_border_border": "solid",
+                                "_border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "tab_color": "globals\/colors?id=text",
+                                    "tab_active_color": "globals\/colors?id=secondary",
+                                    "tab_typography_typography": "globals\/typography?id=accent",
+                                    "content_typography_typography": "globals\/typography?id=fbe49a0",
+                                    "border_color": "globals\/colors?id=e7879df",
+                                    "_border_color": "globals\/colors?id=7f3fda6",
+                                    "background_color": "globals\/colors?id=22691d7",
+                                    "content_color": "globals\/colors?id=accent"
+                                },
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "border_color": "#E9E6E6",
+                                "background_color": "#FFFFFF",
+                                "tab_color": "#000810",
+                                "tab_active_color": "#0DA574",
+                                "_border_color": "#C8C8C8"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "tabs",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_canvas"
+    }
+}

@@ -1,0 +1,16 @@
+[28-Jan-2024 15:53:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/akpersumberwaras.ac.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/akpersumberwaras.ac.id/wp-includes/blocks/index.php on line 8
+[13-Feb-2024 23:46:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/akpersumberwaras.ac.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/akpersumberwaras.ac.id/wp-includes/blocks/index.php on line 8
+[27-Mar-2024 08:11:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/akpersumberwaras.ac.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/akpersumberwaras.ac.id/wp-includes/blocks/index.php on line 8
+[13-May-2024 04:19:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/akpersumberwaras.ac.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/akpersumberwaras.ac.id/wp-includes/blocks/index.php on line 8

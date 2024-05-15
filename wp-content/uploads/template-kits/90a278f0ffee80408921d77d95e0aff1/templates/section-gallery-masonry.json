@@ -1,0 +1,351 @@
+{
+    "version": "0.4",
+    "title": "Section Gallery Masonry",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-gallery",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "353cdca9",
+            "settings": {
+                "gap": "no",
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "180",
+                    "right": "0",
+                    "bottom": "180",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "20",
+                    "bottom": "100",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "15",
+                    "bottom": "60",
+                    "left": "15",
+                    "isLinked": false
+                },
+                "_title": "Gallery"
+            },
+            "elements": [
+                {
+                    "id": "6d007112",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "space_between_widgets": 0
+                    },
+                    "elements": [
+                        {
+                            "id": "35add53d",
+                            "settings": {
+                                "gallery_type": "multiple",
+                                "galleries": [
+                                    {
+                                        "gallery_title": "Construction",
+                                        "_id": "6299409",
+                                        "multiple_gallery": [
+                                            {
+                                                "id": 84,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/pierre-chatel-innocenti-LGblf4EH4yk-unsplash-1.jpg"
+                                            },
+                                            {
+                                                "id": 101,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/dimitry-anikin-R_GpfM2-4ng-unsplash.jpg"
+                                            },
+                                            {
+                                                "id": 99,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/dimitry-anikin-o2Q3EKUL3wI-unsplash.jpg"
+                                            },
+                                            {
+                                                "id": 87,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/interior-PTCVAAC.jpg"
+                                            },
+                                            {
+                                                "id": 88,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/modern-house-in-berlin-PR9AXMX.jpg"
+                                            },
+                                            {
+                                                "id": 89,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/the-interior-of-modern-cafe-GYKJ6WN.jpg"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "gallery_title": "Electrical",
+                                        "_id": "1901b4a",
+                                        "multiple_gallery": [
+                                            {
+                                                "id": 1147,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/welder-works-with-metal-on-factory-welding-skill-8V8QAYS-1.jpg"
+                                            },
+                                            {
+                                                "id": 1165,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/christopher-burns-Wiu3w-99tNg-unsplash-1.jpg"
+                                            },
+                                            {
+                                                "id": 99,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/dimitry-anikin-o2Q3EKUL3wI-unsplash.jpg"
+                                            },
+                                            {
+                                                "id": 86,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/simone-hutsch-XTyNwgCYWTk-unsplash.jpg"
+                                            },
+                                            {
+                                                "id": 95,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/crystal-kwok-XUEdfpPIhXg-unsplash.jpg"
+                                            },
+                                            {
+                                                "id": 92,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/kevin-schmid-B496MVE6IAo-unsplash.jpg"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "gallery_title": "Process",
+                                        "_id": "9fd9e58",
+                                        "multiple_gallery": [
+                                            {
+                                                "id": 93,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/victor-2PJMDIgK9EA-unsplash.jpg"
+                                            },
+                                            {
+                                                "id": 518,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/confident-construction-engineer-architect-business-VEMAJ6G-1-e1631532752867.jpg"
+                                            },
+                                            {
+                                                "id": 418,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/team-of-construction-engineers-architects-working-VL4PG24-1-e1631518865334.jpg"
+                                            },
+                                            {
+                                                "id": 92,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/kevin-schmid-B496MVE6IAo-unsplash.jpg"
+                                            },
+                                            {
+                                                "id": 700,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2020\/08\/businessman-and-engineer-discussing-some-project-CAD4KRH.jpg"
+                                            },
+                                            {
+                                                "id": 707,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2020\/08\/mature-engineer-AUPXV74-1.jpg"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "gallery_title": "Chemistry",
+                                        "_id": "4399314",
+                                        "multiple_gallery": [
+                                            {
+                                                "id": 400,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/factory-workers-and-production-process-PHSVTCR-1.jpg"
+                                            },
+                                            {
+                                                "id": 156,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/simone-hutsch-LsjED2XpfL8-unsplash-1.jpg"
+                                            },
+                                            {
+                                                "id": 1427,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/facade-of-modern-high-rise-residential-building-AV5H8DK.jpg"
+                                            },
+                                            {
+                                                "id": 701,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2020\/08\/the-better-way-to-weld-hand-in-glove-hold-welding-HQ2WPQY.jpg"
+                                            },
+                                            {
+                                                "id": 706,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2020\/08\/thisisengineering-raeng-nyAzMQ6Ejgs-unsplash-1.jpg"
+                                            },
+                                            {
+                                                "id": 709,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2020\/08\/work-of-engineers-DRA4C8B.jpeg"
+                                            },
+                                            {
+                                                "id": 712,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2020\/08\/industrial-engineering-technology-QNEWC32-1.jpg"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "gallery_title": "Special Projects",
+                                        "_id": "b0818ed",
+                                        "multiple_gallery": [
+                                            {
+                                                "id": 710,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2020\/08\/kevin-woblick-WyDfrTfEFSE-unsplash-1.jpg"
+                                            },
+                                            {
+                                                "id": 1416,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/timothy-eberly-ssJRJbqAGDQ-unsplash-1.jpg"
+                                            },
+                                            {
+                                                "id": 1418,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/metal-tubes-ceiling-in-big-office-building-LGPQ5WB-1.jpg"
+                                            },
+                                            {
+                                                "id": 705,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2020\/08\/urban-buildings-TKX45BE-1.jpg"
+                                            },
+                                            {
+                                                "id": 1427,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/facade-of-modern-high-rise-residential-building-AV5H8DK.jpg"
+                                            },
+                                            {
+                                                "id": 85,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/office-skyscrapers-in-moscow-business-centre-at-su-PTQHNNR-1.jpg"
+                                            },
+                                            {
+                                                "id": 87,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/interior-PTCVAAC.jpg"
+                                            },
+                                            {
+                                                "id": 88,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/modern-house-in-berlin-PR9AXMX.jpg"
+                                            },
+                                            {
+                                                "id": 90,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/matt-reames-U6WuKgCYbKE-unsplash.jpg"
+                                            },
+                                            {
+                                                "id": 91,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/luke-van-zyl-koH7IVuwRLw-unsplash.jpg"
+                                            },
+                                            {
+                                                "id": 94,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/crystal-kwok-xD5SWy7hMbw-unsplash.jpg"
+                                            },
+                                            {
+                                                "id": 95,
+                                                "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/crystal-kwok-XUEdfpPIhXg-unsplash.jpg"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "columns": 2,
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "aspect_ratio": "9:16",
+                                "thumbnail_image_size": "medium_large",
+                                "show_all_galleries_label": "All",
+                                "image_hover_animation": "grow",
+                                "overlay_background_hover_background": "",
+                                "align_filter_bar_items": "left",
+                                "pointer_width": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "galleries_titles_space_between": {
+                                    "unit": "px",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "galleries_titles_gap": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "galleries_titles_typography_typography": "globals\/typography?id=28b1aea",
+                                    "galleries_title_color_normal": "globals\/colors?id=text",
+                                    "galleries_title_color_hover": "globals\/colors?id=secondary",
+                                    "galleries_pointer_color_hover": "",
+                                    "galleries_pointer_color_active": "globals\/colors?id=primary"
+                                },
+                                "order_by": "random",
+                                "gallery_layout": "masonry",
+                                "gap_tablet": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "gap_mobile": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "animation_line": "slide",
+                                "overlay_background": "",
+                                "image_animation_duration": {
+                                    "unit": "px",
+                                    "size": 2000,
+                                    "sizes": []
+                                },
+                                "content_padding": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "content_padding_tablet": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "galleries_title_color_normal": "#000810",
+                                "galleries_titles_typography_typography": "custom",
+                                "galleries_titles_typography_font_family": "Archivo",
+                                "galleries_titles_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 17,
+                                    "sizes": []
+                                },
+                                "galleries_titles_typography_font_weight": "600",
+                                "galleries_titles_typography_text_transform": "uppercase",
+                                "galleries_titles_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.100000000000000088817841970012523233890533447265625,
+                                    "sizes": []
+                                },
+                                "galleries_title_color_hover": "#0DA574",
+                                "galleries_pointer_color_hover": "#FFFFFF",
+                                "galleries_pointer_color_active": "#0DA574",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "gallery",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_canvas"
+    }
+}

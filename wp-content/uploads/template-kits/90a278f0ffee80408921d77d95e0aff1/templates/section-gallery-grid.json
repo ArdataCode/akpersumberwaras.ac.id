@@ -1,0 +1,579 @@
+{
+    "version": "0.4",
+    "title": "Section Gallery Grid",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-gallery",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "6e43184",
+            "settings": [],
+            "elements": [
+                {
+                    "id": "56983479",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "4e51fb01",
+                            "settings": {
+                                "gap": "no",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "180",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_title": "Content",
+                                "padding_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "20",
+                                    "bottom": "100",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "15",
+                                    "bottom": "0",
+                                    "left": "15",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "5feb9586",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "content_position": "top",
+                                        "space_between_widgets": 0,
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "20",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "border_color": "globals\/colors?id=e7879df"
+                                        },
+                                        "_title": "Title",
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "459d605a",
+                                            "settings": {
+                                                "width": {
+                                                    "unit": "px",
+                                                    "size": 40,
+                                                    "sizes": []
+                                                },
+                                                "text": "Divider",
+                                                "weight": {
+                                                    "unit": "px",
+                                                    "size": 2,
+                                                    "sizes": []
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "20",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_element_width": "auto",
+                                                "__globals__": {
+                                                    "color": "globals\/colors?id=primary"
+                                                },
+                                                "_animation": "fadeInLeft",
+                                                "animation_duration": "slow"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "divider",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "5b0e79a9",
+                                            "settings": {
+                                                "title": "WHAT WE DO",
+                                                "header_size": "h6",
+                                                "_element_width": "auto",
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=text",
+                                                    "typography_typography": "globals\/typography?id=28b1aea"
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "5",
+                                                    "right": "0",
+                                                    "bottom": "5",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "2db2c186",
+                                            "elType": "widget",
+                                            "settings": {
+                                                "eael_show_dch_icon_content": "",
+                                                "eael_dch_icon_new": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "eael_dch_first_title": "Our",
+                                                "eael_dch_last_title": "Gallery",
+                                                "eael_dch_subtext": "",
+                                                "eael_dch_content_alignment": "left",
+                                                "eael_dch_container_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "eael_dch_container_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "30",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "eael_dch_dual_title_color": "globals\/colors?id=text",
+                                                    "eael_dch_first_title_typography_typography": "globals\/typography?id=secondary",
+                                                    "eael_dch_base_title_color": "globals\/colors?id=secondary"
+                                                },
+                                                "_margin_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "widgetType": "eael-dual-color-header"
+                                        },
+                                        {
+                                            "id": "2c282b68",
+                                            "elType": "widget",
+                                            "settings": {
+                                                "eael_fg_items_to_show": "6",
+                                                "eael_fg_filter_duration": "1000",
+                                                "eael_fg_grid_item_height": "450",
+                                                "eael_section_fg_link_icon_new": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "filter_enable": "",
+                                                "eael_fg_all_label_text": "All",
+                                                "eael_fg_controls": [
+                                                    {
+                                                        "eael_fg_control": "Gallery Item",
+                                                        "_id": "75fa936"
+                                                    }
+                                                ],
+                                                "eael_fg_gallery_items": [
+                                                    {
+                                                        "eael_fg_gallery_item_name": " \u2500  Special Projects",
+                                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                                        "fg_item_price": "$20.00",
+                                                        "fg_item_ratings": "5",
+                                                        "fg_item_cat": "Essential Addons",
+                                                        "eael_fg_gallery_img": {
+                                                            "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/victor-2PJMDIgK9EA-unsplash.jpg",
+                                                            "id": 93,
+                                                            "alt": "",
+                                                            "source": "library"
+                                                        },
+                                                        "fg_item_cat_switch": "",
+                                                        "eael_fg_gallery_item_content": "Fresh Concept Construction Renovation",
+                                                        "_id": "3a2ce92"
+                                                    },
+                                                    {
+                                                        "eael_fg_gallery_item_name": " \u2500  Special Projects",
+                                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                                        "fg_item_price": "$20.00",
+                                                        "fg_item_ratings": "5",
+                                                        "fg_item_cat": "Essential Addons",
+                                                        "eael_fg_gallery_img": {
+                                                            "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/tiomothy-swope-zwe-GYIZtc-unsplash.jpg",
+                                                            "id": 100,
+                                                            "alt": "",
+                                                            "source": "library"
+                                                        },
+                                                        "_id": "077c5d8",
+                                                        "fg_item_cat_switch": "",
+                                                        "eael_fg_gallery_item_content": "<p>Fresh Concept Construction Renovation<\/p>"
+                                                    },
+                                                    {
+                                                        "eael_fg_gallery_item_name": " \u2500  Special Projects",
+                                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                                        "fg_item_price": "$20.00",
+                                                        "fg_item_ratings": "5",
+                                                        "fg_item_cat": "Essential Addons",
+                                                        "eael_fg_gallery_img": {
+                                                            "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/luke-van-zyl-koH7IVuwRLw-unsplash.jpg",
+                                                            "id": 91,
+                                                            "alt": "",
+                                                            "source": "library"
+                                                        },
+                                                        "fg_item_cat_switch": "",
+                                                        "eael_fg_gallery_item_content": "<p>Fresh Concept Construction Renovation<\/p>",
+                                                        "_id": "f54c56c"
+                                                    },
+                                                    {
+                                                        "eael_fg_gallery_item_name": " \u2500  Special Projects",
+                                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                                        "fg_item_price": "$20.00",
+                                                        "fg_item_ratings": "5",
+                                                        "fg_item_cat": "Essential Addons",
+                                                        "eael_fg_gallery_img": {
+                                                            "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2020\/08\/office-building-skyscraper-9SZ55J3-1.jpg",
+                                                            "id": 697,
+                                                            "alt": "",
+                                                            "source": "library"
+                                                        },
+                                                        "fg_item_cat_switch": "",
+                                                        "eael_fg_gallery_item_content": "Fresh Concept Construction Renovation",
+                                                        "_id": "618b775"
+                                                    },
+                                                    {
+                                                        "eael_fg_gallery_item_name": " \u2500  Special Projects",
+                                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                                        "fg_item_price": "$20.00",
+                                                        "fg_item_ratings": "5",
+                                                        "fg_item_cat": "Essential Addons",
+                                                        "eael_fg_gallery_img": {
+                                                            "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/pierre-chatel-innocenti-LGblf4EH4yk-unsplash-1.jpg",
+                                                            "id": 84,
+                                                            "alt": "",
+                                                            "source": "library"
+                                                        },
+                                                        "fg_item_cat_switch": "",
+                                                        "eael_fg_gallery_item_content": "Fresh Concept Construction Renovation",
+                                                        "_id": "2adf717"
+                                                    },
+                                                    {
+                                                        "eael_fg_gallery_item_name": " \u2500  Special Projects",
+                                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                                        "fg_item_price": "$20.00",
+                                                        "fg_item_ratings": "5",
+                                                        "fg_item_cat": "Essential Addons",
+                                                        "eael_fg_gallery_img": {
+                                                            "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/the-interior-of-modern-cafe-GYKJ6WN-1.jpg",
+                                                            "id": 503,
+                                                            "alt": "",
+                                                            "source": "library"
+                                                        },
+                                                        "fg_item_cat_switch": "",
+                                                        "eael_fg_gallery_item_content": "Fresh Concept Construction Renovation",
+                                                        "_id": "2fee48a"
+                                                    }
+                                                ],
+                                                "images_per_page": 6,
+                                                "load_more_text": "Load More",
+                                                "nomore_items_text": "No more items!",
+                                                "eael_fg_container_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "eael_fg_container_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "eael_fg_control_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "eael_fg_control_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "eael_fg_item_container_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "eael_fg_item_container_margin": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "15",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": true
+                                                },
+                                                "eael_fg_video_item_icon_hover_scale": "1.1",
+                                                "eael_fg_item_icon_bg_color": "",
+                                                "eael_fg_item_icon_border_border": "solid",
+                                                "eael_fg_item_icon_border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                },
+                                                "fg_sf_placeholder": "Search Gallery Item...",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "eael_fg_item_icon_bg_color": "",
+                                                    "eael_fg_item_hover_title_color": "globals\/colors?id=primary",
+                                                    "eael_fg_item_hover_title_typography_typography": "globals\/typography?id=28b1aea",
+                                                    "eael_fg_item_hover_title_hover_color": "globals\/colors?id=primary",
+                                                    "eael_fg_item_hover_content_typography_typography": "globals\/typography?id=accent",
+                                                    "eael_fg_item_hover_content_color": "globals\/colors?id=22691d7",
+                                                    "eael_fg_item_icon_bg_color_hover": ""
+                                                },
+                                                "eael_fg_grid_hover_style": "eael-fade-in",
+                                                "eael_fg_show_popup": "media",
+                                                "eael_section_fg_zoom_icon_new": {
+                                                    "value": "fas fa-arrow-right",
+                                                    "library": "fa-solid"
+                                                },
+                                                "eael_fg_container_padding_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "eael_fg_container_margin_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "eael_fg_item_container_padding_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "eael_fg_item_container_margin_mobile": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "0",
+                                                    "bottom": "15",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "eael_fg_item_cap_container_padding": {
+                                                    "unit": "px",
+                                                    "top": "300",
+                                                    "right": "40",
+                                                    "bottom": "0",
+                                                    "left": "40",
+                                                    "isLinked": false
+                                                },
+                                                "eael_fg_item_cap_container_padding_tablet": {
+                                                    "unit": "px",
+                                                    "top": "150",
+                                                    "right": "30",
+                                                    "bottom": "0",
+                                                    "left": "30",
+                                                    "isLinked": false
+                                                },
+                                                "eael_fg_item_cap_container_padding_mobile": {
+                                                    "unit": "px",
+                                                    "top": "250",
+                                                    "right": "030",
+                                                    "bottom": "0",
+                                                    "left": "30",
+                                                    "isLinked": false
+                                                },
+                                                "eael_fg_item_hover_title_color": "#FFC631",
+                                                "eael_fg_item_hover_title_hover_color": "#FFC631",
+                                                "eael_fg_item_hover_title_typography_typography": "custom",
+                                                "eael_fg_item_hover_title_typography_font_family": "Archivo",
+                                                "eael_fg_item_hover_title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 17,
+                                                    "sizes": []
+                                                },
+                                                "eael_fg_item_hover_title_typography_font_weight": "600",
+                                                "eael_fg_item_hover_title_typography_text_transform": "uppercase",
+                                                "eael_fg_item_hover_title_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.100000000000000088817841970012523233890533447265625,
+                                                    "sizes": []
+                                                },
+                                                "eael_fg_item_hover_content_color": "#FFFFFF",
+                                                "eael_fg_item_hover_content_typography_typography": "custom",
+                                                "eael_fg_item_hover_content_typography_font_family": "Archivo",
+                                                "eael_fg_item_hover_content_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 26,
+                                                    "sizes": []
+                                                },
+                                                "eael_fg_item_hover_content_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 25,
+                                                    "sizes": []
+                                                },
+                                                "eael_fg_item_hover_content_typography_font_weight": "700",
+                                                "eael_fg_item_hover_content_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.100000000000000088817841970012523233890533447265625,
+                                                    "sizes": []
+                                                },
+                                                "eael_fg_item_hover_content_typography_line_height_mobile": {
+                                                    "unit": "em",
+                                                    "size": 1.1999999999999999555910790149937383830547332763671875,
+                                                    "sizes": []
+                                                },
+                                                "eael_fg_item_icon_bg_color_hover": "",
+                                                "eael_fg_item_icon_border_hover_border": "solid",
+                                                "_margin_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_padding_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "slow"
+                                            },
+                                            "elements": [],
+                                            "widgetType": "eael-filterable-gallery"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_canvas"
+    }
+}

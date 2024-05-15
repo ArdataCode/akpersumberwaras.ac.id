@@ -1,0 +1,553 @@
+{
+    "version": "0.4",
+    "title": "Section Services Slider",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-services",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "9a381b6",
+            "settings": {
+                "gap": "no",
+                "padding": {
+                    "unit": "px",
+                    "top": "180",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "20",
+                    "bottom": "100",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "15",
+                    "bottom": "60",
+                    "left": "15",
+                    "isLinked": false
+                },
+                "_title": "Services"
+            },
+            "elements": [
+                {
+                    "id": "6c026e52",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "space_between_widgets": 0
+                    },
+                    "elements": [
+                        {
+                            "id": "51099d01",
+                            "settings": {
+                                "width": {
+                                    "unit": "px",
+                                    "size": 40,
+                                    "sizes": []
+                                },
+                                "text": "Divider",
+                                "weight": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "20",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_element_width": "auto",
+                                "__globals__": {
+                                    "color": "globals\/colors?id=primary"
+                                },
+                                "_animation": "fadeInLeft",
+                                "animation_duration": "slow"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "39136962",
+                            "settings": {
+                                "title": "Just feel the future",
+                                "header_size": "h6",
+                                "_element_width": "auto",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=text",
+                                    "typography_typography": "globals\/typography?id=28b1aea"
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 400
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "10c8d502",
+                            "elType": "widget",
+                            "settings": {
+                                "eael_show_dch_icon_content": "",
+                                "eael_dch_icon_new": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "eael_dch_first_title": "Spotlight",
+                                "eael_dch_last_title": "Services",
+                                "eael_dch_subtext": "",
+                                "eael_dch_content_alignment": "left",
+                                "eael_dch_container_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "eael_dch_container_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "40",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "eael_dch_dual_title_color": "globals\/colors?id=text",
+                                    "eael_dch_first_title_typography_typography": "globals\/typography?id=secondary",
+                                    "eael_dch_base_title_color": "globals\/colors?id=secondary"
+                                }
+                            },
+                            "elements": [],
+                            "widgetType": "eael-dual-color-header"
+                        },
+                        {
+                            "id": "2b217cb8",
+                            "settings": {
+                                "show_logo": "",
+                                "show_menu": "",
+                                "show_offcanvas": "",
+                                "show_play_button": "",
+                                "show_scroll_button": "",
+                                "logo_text": "Brand",
+                                "menus": [
+                                    {
+                                        "menu_title": "About",
+                                        "_id": "d1b444a"
+                                    },
+                                    {
+                                        "menu_title": "Projects",
+                                        "_id": "831dcd1"
+                                    },
+                                    {
+                                        "menu_title": "Services",
+                                        "_id": "cd88333"
+                                    },
+                                    {
+                                        "menu_title": "Contacts",
+                                        "_id": "250ffad"
+                                    }
+                                ],
+                                "offcanvas_custom_id": "#bdt-custom-offcanvas",
+                                "slides": [
+                                    {
+                                        "title": "Process Engineering",
+                                        "image": {
+                                            "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/christopher-burns-Wiu3w-99tNg-unsplash-1.jpg",
+                                            "id": 1165,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "slide_button_text": "ABOUT SERVICE",
+                                        "excerpt": "<p>Vitae ultricies leo integer malesuada nunc vel. Molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit. Viverra aliquet eget sit amet tellus cras adipiscing<\/p>",
+                                        "lightbox_link": {
+                                            "url": "",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "08acd13"
+                                    },
+                                    {
+                                        "title": "Construction Management",
+                                        "image": {
+                                            "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/confident-construction-engineer-architect-business-VEMAJ6G-1-e1631532752867.jpg",
+                                            "id": 518,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "slide_button_text": "ABOUT SERVICE",
+                                        "excerpt": "A diam maecenas sed enim. Curabitur vitae nunc sed velit dignissim sodales. Sed lectus vestibulum mattis ullamcorper velit. Eget lorem dolor sed viverra ipsum nunc aliquet",
+                                        "lightbox_link": {
+                                            "url": "",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "3a0c3d6"
+                                    },
+                                    {
+                                        "title": "Civil Engineering",
+                                        "image": {
+                                            "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2020\/08\/building-3Z6H5G8-1.jpg",
+                                            "id": 703,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "slide_button_text": "ABOUT SERVICE",
+                                        "excerpt": "Gravida arcu ac tortor dignissim convallis aenean et tortor at. Neque viverra justo nec ultrices dui sapien eget mi. Id nibh tortor id aliquet lectus proin. Ac tortor vitae purus faucibus ornare suspendisse se",
+                                        "lightbox_link": {
+                                            "url": "",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "75cd36c"
+                                    },
+                                    {
+                                        "title": "Specialty Services",
+                                        "image": {
+                                            "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/electricial-at-construction-site-UVFY3HH-1.jpg",
+                                            "id": 390,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "slide_button_text": "ABOUT SERVICE",
+                                        "excerpt": "Elit ut aliquam purus sit amet luctus. Amet nisl purus in mollis nunc sed id semper risus. Massa vitae tortor condimentum lacinia quis vel eros donec. Sit amet risus nullam eget felis eget",
+                                        "lightbox_link": {
+                                            "url": "",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "3f5fd98"
+                                    },
+                                    {
+                                        "title": "Chemistry \u2028and Metallurgy",
+                                        "image": {
+                                            "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/christopher-burns-Wiu3w-99tNg-unsplash-1.jpg",
+                                            "id": 1165,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "slide_button_text": "ABOUT SERVICE",
+                                        "excerpt": "Sem et tortor consequat id porta. Tincidunt arcu non sodales neque sodales ut etiam. Aenean pharetra magna ac placerat vestibulum lectus mauris ultrices eros",
+                                        "lightbox_link": {
+                                            "url": "",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "8d2f458"
+                                    },
+                                    {
+                                        "title": "Electrical Engineering",
+                                        "image": {
+                                            "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/welder-works-with-metal-on-factory-welding-skill-8V8QAYS-1.jpg",
+                                            "id": 1147,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "slide_button_text": "ABOUT SERVICE",
+                                        "excerpt": "Tempor commodo ullamcorper a lacus vestibulum sed. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Blandit cursus risus at ultrices mi",
+                                        "lightbox_link": {
+                                            "url": "",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "b7dfce0"
+                                    }
+                                ],
+                                "social_link_list": [
+                                    {
+                                        "social_link": "http:\/\/www.facebook.com\/bdthemes\/",
+                                        "social_icon": {
+                                            "value": "fab fa-facebook-f",
+                                            "library": "fa-brands"
+                                        },
+                                        "social_link_title": "Facebook",
+                                        "_id": "b97173a"
+                                    },
+                                    {
+                                        "social_link": "http:\/\/www.twitter.com\/bdthemes\/",
+                                        "social_icon": {
+                                            "value": "fab fa-twitter",
+                                            "library": "fa-brands"
+                                        },
+                                        "social_link_title": "Twitter",
+                                        "_id": "1c78342"
+                                    },
+                                    {
+                                        "social_link": "http:\/\/www.instagram.com\/bdthemes\/",
+                                        "social_icon": {
+                                            "value": "fab fa-instagram",
+                                            "library": "fa-brands"
+                                        },
+                                        "social_link_title": "Instagram",
+                                        "_id": "6a54eb9"
+                                    }
+                                ],
+                                "scroll_button_text": "Scroll Down",
+                                "section_id": "my-header",
+                                "title_width": {
+                                    "unit": "px",
+                                    "size": 500,
+                                    "sizes": []
+                                },
+                                "slider_min_height": {
+                                    "unit": "px",
+                                    "size": 600,
+                                    "sizes": []
+                                },
+                                "content_alignment": "left",
+                                "image_offset_toggle": "yes",
+                                "kenburns_animation": "yes",
+                                "title_color": "#000810",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Archivo",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "title_typography_font_weight": "700",
+                                "title_typography_text_transform": "none",
+                                "title_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.100000000000000088817841970012523233890533447265625,
+                                    "sizes": []
+                                },
+                                "prime_slider_title_spacing": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "first_word_style": "yes",
+                                "sub_title_color": "#A9A9A9",
+                                "excerpt_color": "#202C38",
+                                "excerpt_typography_typography": "custom",
+                                "excerpt_typography_font_family": "Roboto",
+                                "excerpt_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 19,
+                                    "sizes": []
+                                },
+                                "excerpt_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "excerpt_typography_font_weight": "400",
+                                "excerpt_typography_text_transform": "none",
+                                "excerpt_typography_font_style": "normal",
+                                "excerpt_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.3000000000000000444089209850062616169452667236328125,
+                                    "sizes": []
+                                },
+                                "excerpt_typography_line_height_mobile": {
+                                    "unit": "em",
+                                    "size": 1.3000000000000000444089209850062616169452667236328125,
+                                    "sizes": []
+                                },
+                                "excerpt_width": {
+                                    "unit": "px",
+                                    "size": 679,
+                                    "sizes": []
+                                },
+                                "prime_slider_excerpt_spacing": {
+                                    "unit": "px",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "slide_button_text_color": "#000810",
+                                "slide_button_background_color": "#FFC631",
+                                "slide_button_border_border": "solid",
+                                "slide_button_border_color": "#02010100",
+                                "slide_button_border_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "slide_button_text_padding": {
+                                    "unit": "px",
+                                    "top": "17",
+                                    "right": "30",
+                                    "bottom": "17",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "slide_button_typography_typography": "custom",
+                                "slide_button_typography_font_family": "Archivo",
+                                "slide_button_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 17,
+                                    "sizes": []
+                                },
+                                "slide_button_typography_font_weight": "600",
+                                "slide_button_typography_text_transform": "uppercase",
+                                "slide_button_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.100000000000000088817841970012523233890533447265625,
+                                    "sizes": []
+                                },
+                                "slide_button_hover_color": "#000810",
+                                "slide_button_background_hover_color": "#FFC631",
+                                "slide_button_hover_border_color": "#FFC63100",
+                                "navi_dot_color": "#E9E6E6",
+                                "active_dot_color": "#FFC631",
+                                "border_dot_color": "#C8C8C8",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=text",
+                                    "title_typography_typography": "globals\/typography?id=text",
+                                    "navi_dot_color": "globals\/colors?id=e7879df",
+                                    "slide_button_text_color": "globals\/colors?id=text",
+                                    "slide_button_background_color": "globals\/colors?id=primary",
+                                    "slide_button_typography_typography": "globals\/typography?id=28b1aea",
+                                    "border_dot_color": "globals\/colors?id=7f3fda6",
+                                    "active_dot_color": "globals\/colors?id=primary",
+                                    "sub_title_color": "globals\/colors?id=6519865",
+                                    "excerpt_color": "globals\/colors?id=accent",
+                                    "excerpt_typography_typography": "globals\/typography?id=fbe49a0",
+                                    "slide_button_hover_color": "globals\/colors?id=text",
+                                    "slide_button_background_hover_color": "globals\/colors?id=primary",
+                                    "slide_button_hover_border_color": "",
+                                    "first_word_text_color": "globals\/colors?id=accent",
+                                    "first_word_line_color": "globals\/colors?id=22691d7"
+                                },
+                                "show_sub_title": "",
+                                "show_navigation_arrows": "",
+                                "show_navigation_dots": "",
+                                "title_html_tag": "h4",
+                                "content_alignment_tablet": "left",
+                                "pause_on_hover": "yes",
+                                "title_width_tablet": {
+                                    "unit": "px",
+                                    "size": 1200,
+                                    "sizes": []
+                                },
+                                "excerpt_width_tablet": {
+                                    "unit": "px",
+                                    "size": 800,
+                                    "sizes": []
+                                },
+                                "prime_slider_excerpt_spacing_tablet": {
+                                    "unit": "px",
+                                    "size": 40,
+                                    "sizes": []
+                                },
+                                "title_width_mobile": {
+                                    "unit": "px",
+                                    "size": 1200,
+                                    "sizes": []
+                                },
+                                "prime_slider_title_spacing_mobile": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "excerpt_width_mobile": {
+                                    "unit": "px",
+                                    "size": 800,
+                                    "sizes": []
+                                },
+                                "prime_slider_excerpt_spacing_mobile": {
+                                    "unit": "px",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "prime_slider_title_spacing_tablet": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "prime-slider-isolate",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_canvas"
+    }
+}

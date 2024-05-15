@@ -1,0 +1,448 @@
+{
+    "version": "0.4",
+    "title": "Section FAQ",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-faq",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "6100bd81",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "180",
+                    "right": "0",
+                    "bottom": "180",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "gap": "no",
+                "structure": "22",
+                "_title": "FAQ",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "20",
+                    "bottom": "100",
+                    "left": "020",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "15",
+                    "bottom": "100",
+                    "left": "15",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "156ed7d2",
+                    "settings": {
+                        "_column_size": 66,
+                        "_inline_size": 40,
+                        "content_position": "center",
+                        "space_between_widgets": 0,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "60",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_inline_size_tablet": 100,
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "60",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "39e33560",
+                            "settings": {
+                                "width": {
+                                    "unit": "px",
+                                    "size": 40,
+                                    "sizes": []
+                                },
+                                "text": "Divider",
+                                "weight": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "20",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_element_width": "auto",
+                                "__globals__": {
+                                    "color": "globals\/colors?id=primary"
+                                },
+                                "_animation": "fadeInLeft",
+                                "animation_duration": "slow"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4aef6685",
+                            "settings": {
+                                "title": "where we do",
+                                "header_size": "h6",
+                                "_element_width": "auto",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=text",
+                                    "typography_typography": "globals\/typography?id=28b1aea"
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 400
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4dfdad60",
+                            "elType": "widget",
+                            "settings": {
+                                "eael_show_dch_icon_content": "",
+                                "eael_dch_icon_new": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "eael_dch_first_title": "If Your Question Is Not Here ",
+                                "eael_dch_last_title": "Contact Us",
+                                "eael_dch_subtext": "",
+                                "eael_dch_content_alignment": "left",
+                                "eael_dch_container_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "eael_dch_container_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "eael_dch_dual_title_color": "globals\/colors?id=text",
+                                    "eael_dch_first_title_typography_typography": "globals\/typography?id=secondary",
+                                    "eael_dch_base_title_color": "globals\/colors?id=secondary"
+                                },
+                                "_element_width_mobile": "inherit"
+                            },
+                            "elements": [],
+                            "widgetType": "eael-dual-color-header"
+                        },
+                        {
+                            "id": "aa0a848",
+                            "settings": {
+                                "editor": "Porttitor rhoncus dolor purus non enim praesent elementum facilisis. Nisi scelerisque eu ultrices vitae auctor eu augue ut lectus",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "40",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=fbe49a0",
+                                    "text_color": "globals\/colors?id=accent"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "79419e98",
+                            "settings": {
+                                "text": "CONSULT NOW",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "text_padding": {
+                                    "unit": "px",
+                                    "top": "18",
+                                    "right": "30",
+                                    "bottom": "18",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "button_text_color": "globals\/colors?id=text",
+                                    "background_color": "globals\/colors?id=primary",
+                                    "typography_typography": "globals\/typography?id=28b1aea"
+                                },
+                                "hover_animation": "bob",
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 1000,
+                                "align_mobile": "justify"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "391d58ec",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 59.33200000000000073896444519050419330596923828125,
+                        "content_position": "center",
+                        "space_between_widgets": 0,
+                        "animation": "fadeIn",
+                        "_inline_size_tablet": 100,
+                        "animation_duration": "slow",
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "4360d4ef",
+                            "elType": "widget",
+                            "settings": {
+                                "eael_adv_accordion_tab": [
+                                    {
+                                        "eael_adv_accordion_tab_title": "What is a Structural Engineer?",
+                                        "_id": "9a3b4cd",
+                                        "eael_adv_accordion_tab_default_active": "",
+                                        "eael_adv_accordion_tab_icon_show": "",
+                                        "eael_adv_accordion_tab_content": "Condimentum id venenatis a condimentum vitae sapien pellentesque habitant. Non quam lacus suspendisse faucibus interdum posuere lorem. Ut diam quam nulla porttitor massa id neque aliquam vestibulum. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien"
+                                    },
+                                    {
+                                        "eael_adv_accordion_tab_title": "What are the Service Provided by Company?",
+                                        "_id": "ee4043f",
+                                        "eael_adv_accordion_tab_default_active": "yes",
+                                        "eael_adv_accordion_tab_icon_show": "",
+                                        "eael_adv_accordion_tab_content": "Condimentum id venenatis a condimentum vitae sapien pellentesque habitant. Non quam lacus suspendisse faucibus interdum posuere lorem. Ut diam quam nulla porttitor massa id neque aliquam vestibulum. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien"
+                                    },
+                                    {
+                                        "eael_adv_accordion_tab_title": "Where is Company Located?",
+                                        "_id": "6129ea2",
+                                        "eael_adv_accordion_tab_icon_show": "",
+                                        "eael_adv_accordion_tab_content": "Condimentum id venenatis a condimentum vitae sapien pellentesque habitant. Non quam lacus suspendisse faucibus interdum posuere lorem. Ut diam quam nulla porttitor massa id neque aliquam vestibulum. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien"
+                                    },
+                                    {
+                                        "eael_adv_accordion_tab_title": "How Long Does It Take to Build a House?",
+                                        "eael_adv_accordion_tab_icon_show": "",
+                                        "eael_adv_accordion_tab_content": "Condimentum id venenatis a condimentum vitae sapien pellentesque habitant. Non quam lacus suspendisse faucibus interdum posuere lorem. Ut diam quam nulla porttitor massa id neque aliquam vestibulum. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien",
+                                        "_id": "7ef38ba"
+                                    },
+                                    {
+                                        "eael_adv_accordion_tab_title": "What Is a General Contractor ?",
+                                        "eael_adv_accordion_tab_icon_show": "",
+                                        "eael_adv_accordion_tab_content": "Condimentum id venenatis a condimentum vitae sapien pellentesque habitant. Non quam lacus suspendisse faucibus interdum posuere lorem. Ut diam quam nulla porttitor massa id neque aliquam vestibulum. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien",
+                                        "_id": "254bd32"
+                                    }
+                                ],
+                                "eael_adv_accordion_tab_icon_size": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "eael_adv_accordion_tab_icon_gap": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "eael_adv_accordion_tab_toggle_icon_size": {
+                                    "unit": "px",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "eael_adv_accordion_tab_distance": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "eael_adv_accordion_tab_padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "30",
+                                    "bottom": "20",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "eael_adv_accordion_tab_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "eael_adv_accordion_tab_bgtype_background": "classic",
+                                "eael_adv_accordion_tab_border_border": "solid",
+                                "eael_adv_accordion_tab_border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "eael_adv_accordion_tab_bgtype_hover_background": "classic",
+                                "eael_adv_accordion_tab_border_hover_border": "solid",
+                                "eael_adv_accordion_tab_border_hover_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": false
+                                },
+                                "eael_adv_accordion_tab_border_radius_hover": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "eael_adv_accordion_tab_bgtype_active_background": "classic",
+                                "eael_adv_accordion_tab_border_active_border": "solid",
+                                "eael_adv_accordion_tab_border_active_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "0",
+                                    "left": "1",
+                                    "isLinked": false
+                                },
+                                "eael_adv_accordion_content_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "30",
+                                    "bottom": "20",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "eael_adv_accordion_tab_title_typography_typography": "globals\/typography?id=accent",
+                                    "eael_adv_accordion_tab_text_color": "globals\/colors?id=text",
+                                    "eael_adv_accordion_tab_icon_color": "globals\/colors?id=text",
+                                    "eael_adv_accordion_tab_border_color": "globals\/colors?id=7f3fda6",
+                                    "eael_adv_accordion_tab_text_color_hover": "globals\/colors?id=secondary",
+                                    "eael_adv_accordion_tab_icon_color_hover": "globals\/colors?id=secondary",
+                                    "eael_adv_accordion_tab_bgtype_hover_color": "globals\/colors?id=22691d7",
+                                    "eael_adv_accordion_tab_border_hover_color": "globals\/colors?id=secondary",
+                                    "eael_adv_accordion_tab_text_color_active": "globals\/colors?id=secondary",
+                                    "eael_adv_accordion_tab_icon_color_active": "globals\/colors?id=secondary",
+                                    "eael_adv_accordion_tab_border_active_color": "globals\/colors?id=secondary",
+                                    "eael_adv_accordion_tab_bgtype_active_color": "globals\/colors?id=22691d7",
+                                    "adv_accordion_content_text_color": "globals\/colors?id=accent",
+                                    "eael_adv_accordion_content_typography_typography": "globals\/typography?id=fbe49a0",
+                                    "eael_adv_tabs_tab_toggle_hover_color": "globals\/colors?id=secondary",
+                                    "eael_adv_tabs_tab_toggle_active_color": "globals\/colors?id=secondary",
+                                    "eael_adv_accordion_tab_bgtype_color": "globals\/colors?id=22691d7",
+                                    "eael_adv_accordion_content_border_color": "globals\/colors?id=secondary"
+                                },
+                                "eael_adv_accordion_content_border_border": "solid",
+                                "eael_adv_accordion_content_border_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": false
+                                },
+                                "eael_adv_accordion_tab_border_width_mobile": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "eael_adv_accordion_tab_toggle_icon_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "10",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "widgetType": "eael-adv-accordion"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_canvas"
+    }
+}

@@ -1,0 +1,3215 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Axial",
+    "page_builder": "elementor",
+    "kit_version": "1.1.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.png",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.co",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home Page 1",
+            "screenshot": "screenshots\/home-page-1.jpg",
+            "source": "templates\/home-page-1.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/home-page-1\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home Page 2",
+            "screenshot": "screenshots\/home-page-2.png",
+            "source": "templates\/home-page-2.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/home-page-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.png",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.png",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Service",
+            "screenshot": "screenshots\/single-service.png",
+            "source": "templates\/single-service.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/single-service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Projects 1",
+            "screenshot": "screenshots\/projects-1.png",
+            "source": "templates\/projects-1.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/projects-1\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Projects 2",
+            "screenshot": "screenshots\/projects-2.png",
+            "source": "templates\/projects-2.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/projects-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Project",
+            "screenshot": "screenshots\/single-project.png",
+            "source": "templates\/single-project.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/single-project\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.png",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/?elementor_library=blog",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive\/\/7",
+                    "exclude\/archive\/category\/9"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: Archives #7."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog 1",
+            "screenshot": "screenshots\/blog-1.png",
+            "source": "templates\/blog-1.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/?elementor_library=blog-1",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive\/category\/9"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: Categories #9."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.png",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/?elementor_library=single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post",
+                    "exclude\/singular\/in_category\/27"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.png",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.png",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Gallery Masonry",
+            "screenshot": "screenshots\/gallery-masonry.png",
+            "source": "templates\/gallery-masonry.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/gallery-masonry\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Gallery Grid",
+            "screenshot": "screenshots\/gallery-grid.png",
+            "source": "templates\/gallery-grid.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/gallery-grid\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contacts 1",
+            "screenshot": "screenshots\/contacts-1.png",
+            "source": "templates\/contacts-1.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/contacts-1\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contacts 2",
+            "screenshot": "screenshots\/contacts-2.png",
+            "source": "templates\/contacts-2.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/contacts-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Contacts Right Side Dark Background",
+            "screenshot": "screenshots\/section-contacts-right-side-dark-background.png",
+            "source": "templates\/section-contacts-right-side-dark-background.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-contacts-right-side-dark-background\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Gallery Full Width",
+            "screenshot": "screenshots\/section-gallery-full-width.png",
+            "source": "templates\/section-gallery-full-width.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-gallery-full-width-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-gallery",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Quote Right Side",
+            "screenshot": "screenshots\/section-quote-right-side.png",
+            "source": "templates\/section-quote-right-side.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-quote-right-side\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Hero Section",
+            "screenshot": "screenshots\/hero-section.png",
+            "source": "templates\/hero-section.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/hero-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Image with Progress Bar",
+            "screenshot": "screenshots\/section-image-with-progress-bar.png",
+            "source": "templates\/section-image-with-progress-bar.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-image-with-progress-bar\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Form with Contacts on Background",
+            "screenshot": "screenshots\/section-form-with-contacts-on-background.png",
+            "source": "templates\/section-form-with-contacts-on-background.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-form-with-contacts-on-background\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Ranking Grey Background",
+            "screenshot": "screenshots\/section-ranking-grey-background.png",
+            "source": "templates\/section-ranking-grey-background.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-ranking-grey-background\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Map",
+            "screenshot": "screenshots\/section-map.png",
+            "source": "templates\/section-map.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-map\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-map",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Contacts Card",
+            "screenshot": "screenshots\/section-contacts-card.png",
+            "source": "templates\/section-contacts-card.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-contacts-card\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Ranking",
+            "screenshot": "screenshots\/section-ranking.png",
+            "source": "templates\/section-ranking.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-ranking\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Team",
+            "screenshot": "screenshots\/section-team.png",
+            "source": "templates\/section-team.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-team\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Gallery Masonry",
+            "screenshot": "screenshots\/section-gallery-masonry.png",
+            "source": "templates\/section-gallery-masonry.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-gallery-masonry\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-gallery",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Description of the Project",
+            "screenshot": "screenshots\/section-description-of-the-project.png",
+            "source": "templates\/section-description-of-the-project.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-description-of-the-project\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Information About the Project",
+            "screenshot": "screenshots\/section-information-about-the-project.png",
+            "source": "templates\/section-information-about-the-project.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-information-about-the-project\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Projects",
+            "screenshot": "screenshots\/section-projects.png",
+            "source": "templates\/section-projects.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-projects\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Offer",
+            "screenshot": "screenshots\/section-offer.png",
+            "source": "templates\/section-offer.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-offer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Other Services",
+            "screenshot": "screenshots\/section-other-services.png",
+            "source": "templates\/section-other-services.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-other-services\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Service Tabs",
+            "screenshot": "screenshots\/section-service-tabs.jpg",
+            "source": "templates\/section-service-tabs.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-service-tabs\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Breadcrumbs",
+            "screenshot": "screenshots\/section-breadcrumbs.png",
+            "source": "templates\/section-breadcrumbs.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-breadcrumbs\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Counter Right Side",
+            "screenshot": "screenshots\/section-counter-right-side.png",
+            "source": "templates\/section-counter-right-side.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-counter-right-side\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Advantages White Background",
+            "screenshot": "screenshots\/section-advantages-white-background.png",
+            "source": "templates\/section-advantages-white-background.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-advantages-white-background\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section About with List",
+            "screenshot": "screenshots\/section-about-with-list.png",
+            "source": "templates\/section-about-with-list.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-about-with-list\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Testimonials Grey Background",
+            "screenshot": "screenshots\/section-testimonials-grey-background.png",
+            "source": "templates\/section-testimonials-grey-background.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-testimonials-grey-background\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Contacts with Map",
+            "screenshot": "screenshots\/section-contacts-with-map.png",
+            "source": "templates\/section-contacts-with-map.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-contacts-with-map\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Testimonials Left",
+            "screenshot": "screenshots\/section-testimonials-left.png",
+            "source": "templates\/section-testimonials-left.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-testimonials-left\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Projects 2 Columns White Background",
+            "screenshot": "screenshots\/section-projects-2-columns-white-background.png",
+            "source": "templates\/section-projects-2-columns-white-background.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-projects-2-columns-white-background\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Gallery Grid",
+            "screenshot": "screenshots\/section-gallery-grid.png",
+            "source": "templates\/section-gallery-grid.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-gallery-grid\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-gallery",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Numbers Grey Background",
+            "screenshot": "screenshots\/section-numbers-grey-background.png",
+            "source": "templates\/section-numbers-grey-background.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-numbers-grey-background\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Advantages with Numbers",
+            "screenshot": "screenshots\/section-advantages-with-numbers.png",
+            "source": "templates\/section-advantages-with-numbers.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-advantages-with-numbers\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Hero Section Slider",
+            "screenshot": "screenshots\/hero-section-slider.png",
+            "source": "templates\/hero-section-slider.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/hero-section-slider\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Contacts with Form",
+            "screenshot": "screenshots\/section-contacts-with-form.png",
+            "source": "templates\/section-contacts-with-form.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-contacts-with-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Quote",
+            "screenshot": "screenshots\/section-quote.png",
+            "source": "templates\/section-quote.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-quote\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Gallery Full Width",
+            "screenshot": "screenshots\/section-gallery-full-width.png",
+            "source": "templates\/section-gallery-full-width.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-gallery-full-width\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-gallery",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Blog",
+            "screenshot": "screenshots\/section-blog.png",
+            "source": "templates\/section-blog.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-blog\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section FAQ",
+            "screenshot": "screenshots\/section-faq.png",
+            "source": "templates\/section-faq.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-faq\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-faq",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Video",
+            "screenshot": "screenshots\/section-video.png",
+            "source": "templates\/section-video.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-video\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Advantages Dark Background",
+            "screenshot": "screenshots\/section-advantages-dark-background.png",
+            "source": "templates\/section-advantages-dark-background.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-advantage\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Projects on Map",
+            "screenshot": "screenshots\/section-projects-on-map.png",
+            "source": "templates\/section-projects-on-map.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-project-on-map\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Projects 2 Columns Dark Background",
+            "screenshot": "screenshots\/section-projects-2-columns-dark-background.png",
+            "source": "templates\/section-projects-2-columns-dark-background.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/projects-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Service Section",
+            "screenshot": "screenshots\/service-section.png",
+            "source": "templates\/service-section.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/service-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Services Slider",
+            "screenshot": "screenshots\/section-services-slider.png",
+            "source": "templates\/section-services-slider.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-services-slider\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Section Process",
+            "screenshot": "screenshots\/section-process.png",
+            "source": "templates\/section-process.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/template-kit\/section-process\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.png",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Error page",
+            "screenshot": "screenshots\/error-page.png",
+            "source": "templates\/error-page.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/?elementor_library=error-page",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Burger menu",
+            "screenshot": "screenshots\/burger-menu.png",
+            "source": "templates\/burger-menu.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/?elementor_library=burger-menu",
+            "type": "popup",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "popup",
+                "additional_template_information": [
+                    "This is a \"Popup\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/axial-construct.templatekit.co\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Prime Slider",
+            "version": "3.6.5",
+            "file": "bdthemes-prime-slider-lite\/bdthemes-prime-slider.php",
+            "author": "BdThemes"
+        },
+        {
+            "name": "Envato Elements",
+            "version": "2.0.12",
+            "file": "envato-elements\/envato-elements.php",
+            "author": "Envato"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.13.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.12.2",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "facade-of-modern-high-rise-residential-building-AV5H8DK-1-1.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/facade-of-modern-high-rise-residential-building-AV5H8DK-1-1-800x654.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home Page 1"
+                },
+                {
+                    "source": "templates\/hero-section.json",
+                    "name": "Hero Section"
+                }
+            ],
+            "filesize": 348957,
+            "dimensions": [
+                1300,
+                1062
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-AV5H8DK"
+        },
+        {
+            "filename": "Plan.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/Plan.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home Page 1"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/projects-1.json",
+                    "name": "Projects 1"
+                },
+                {
+                    "source": "templates\/projects-2.json",
+                    "name": "Projects 2"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/blog-1.json",
+                    "name": "Blog 1"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/gallery-grid.json",
+                    "name": "Gallery Grid"
+                },
+                {
+                    "source": "templates\/contacts-1.json",
+                    "name": "Contacts 1"
+                },
+                {
+                    "source": "templates\/contacts-2.json",
+                    "name": "Contacts 2"
+                },
+                {
+                    "source": "templates\/hero-section.json",
+                    "name": "Hero Section"
+                },
+                {
+                    "source": "templates\/section-breadcrumbs.json",
+                    "name": "Section Breadcrumbs"
+                }
+            ],
+            "filesize": 56381,
+            "dimensions": [
+                721,
+                1057
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "interior-PTCVAAC.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/interior-PTCVAAC-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home Page 1"
+                },
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/gallery-grid.json",
+                    "name": "Gallery Grid"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-projects-2-columns-dark-background.json",
+                    "name": "Section Projects 2 Columns Dark Background"
+                }
+            ],
+            "filesize": 186874,
+            "dimensions": [
+                2000,
+                1336
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PTCVAAC"
+        },
+        {
+            "filename": "tiomothy-swope-zwe-GYIZtc-unsplash.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/tiomothy-swope-zwe-GYIZtc-unsplash-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home Page 1"
+                },
+                {
+                    "source": "templates\/projects-1.json",
+                    "name": "Projects 1"
+                },
+                {
+                    "source": "templates\/gallery-grid.json",
+                    "name": "Gallery Grid"
+                },
+                {
+                    "source": "templates\/section-projects-2-columns-white-background.json",
+                    "name": "Section Projects 2 Columns White Background"
+                },
+                {
+                    "source": "templates\/section-gallery-grid.json",
+                    "name": "Section Gallery Grid"
+                },
+                {
+                    "source": "templates\/section-gallery-full-width.json",
+                    "name": "Section Gallery Full Width"
+                },
+                {
+                    "source": "templates\/section-projects-2-columns-dark-background.json",
+                    "name": "Section Projects 2 Columns Dark Background"
+                }
+            ],
+            "filesize": 197556,
+            "dimensions": [
+                1365,
+                2048
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "crystal-kwok-xD5SWy7hMbw-unsplash.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/crystal-kwok-xD5SWy7hMbw-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home Page 1"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                },
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-advantages-with-numbers.json",
+                    "name": "Section Advantages with Numbers"
+                },
+                {
+                    "source": "templates\/section-projects-2-columns-dark-background.json",
+                    "name": "Section Projects 2 Columns Dark Background"
+                }
+            ],
+            "filesize": 256113,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "dimitry-anikin-3YZJ0ulbZho-unsplash.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/dimitry-anikin-3YZJ0ulbZho-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home Page 1"
+                },
+                {
+                    "source": "templates\/gallery-grid.json",
+                    "name": "Gallery Grid"
+                },
+                {
+                    "source": "templates\/section-projects-2-columns-dark-background.json",
+                    "name": "Section Projects 2 Columns Dark Background"
+                }
+            ],
+            "filesize": 341995,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "Map_1.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/Map_1-800x539.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home Page 1"
+                },
+                {
+                    "source": "templates\/section-projects-on-map.json",
+                    "name": "Section Projects on Map"
+                }
+            ],
+            "filesize": 40861,
+            "dimensions": [
+                847,
+                571
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.google.com\/"
+        },
+        {
+            "filename": "Icon-layer-black.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/Icon-layer-black.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home Page 1"
+                },
+                {
+                    "source": "templates\/section-advantages-dark-background.json",
+                    "name": "Section Advantages Dark Background"
+                }
+            ],
+            "filesize": 707,
+            "dimensions": [
+                70,
+                68
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "Iocn-settings-black.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/Iocn-settings-black.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home Page 1"
+                },
+                {
+                    "source": "templates\/section-advantages-dark-background.json",
+                    "name": "Section Advantages Dark Background"
+                }
+            ],
+            "filesize": 1396,
+            "dimensions": [
+                70,
+                72
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "Icon-analytics-balck.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/Icon-analytics-balck.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home Page 1"
+                },
+                {
+                    "source": "templates\/section-advantages-dark-background.json",
+                    "name": "Section Advantages Dark Background"
+                }
+            ],
+            "filesize": 866,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "Iocn-lamp-black.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/Iocn-lamp-black.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home Page 1"
+                },
+                {
+                    "source": "templates\/section-advantages-dark-background.json",
+                    "name": "Section Advantages Dark Background"
+                }
+            ],
+            "filesize": 1062,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "Icon-share-black.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/Icon-share-black.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home Page 1"
+                },
+                {
+                    "source": "templates\/section-advantages-dark-background.json",
+                    "name": "Section Advantages Dark Background"
+                }
+            ],
+            "filesize": 969,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "men-working-together-MDAZ25E-1.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/men-working-together-MDAZ25E-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home Page 1"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/section-testimonials-grey-background.json",
+                    "name": "Section Testimonials Grey Background"
+                },
+                {
+                    "source": "templates\/section-video.json",
+                    "name": "Section Video"
+                }
+            ],
+            "filesize": 214861,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MDAZ25E"
+        },
+        {
+            "filename": "confident-factory-investor-in-hardhat-PAW2LYJ.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/confident-factory-investor-in-hardhat-PAW2LYJ-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home Page 1"
+                },
+                {
+                    "source": "templates\/section-quote-right-side.json",
+                    "name": "Section Quote Right Side"
+                }
+            ],
+            "filesize": 152737,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PAW2LYJ"
+        },
+        {
+            "filename": "luke-van-zyl-koH7IVuwRLw-unsplash-1.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/luke-van-zyl-koH7IVuwRLw-unsplash-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home Page 1"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/projects-2.json",
+                    "name": "Projects 2"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/gallery-grid.json",
+                    "name": "Gallery Grid"
+                },
+                {
+                    "source": "templates\/section-gallery-full-width.json",
+                    "name": "Section Gallery Full Width"
+                },
+                {
+                    "source": "templates\/section-projects.json",
+                    "name": "Section Projects"
+                }
+            ],
+            "filesize": 214833,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "facade-of-modern-high-rise-residential-building-AV5H8DK.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/facade-of-modern-high-rise-residential-building-AV5H8DK-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home Page 1"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/gallery-grid.json",
+                    "name": "Gallery Grid"
+                },
+                {
+                    "source": "templates\/section-gallery-full-width.json",
+                    "name": "Section Gallery Full Width"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                }
+            ],
+            "filesize": 244859,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-AV5H8DK"
+        },
+        {
+            "filename": "pierre-chatel-innocenti-LGblf4EH4yk-unsplash-1.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/pierre-chatel-innocenti-LGblf4EH4yk-unsplash-1-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home Page 1"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/projects-1.json",
+                    "name": "Projects 1"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/gallery-grid.json",
+                    "name": "Gallery Grid"
+                },
+                {
+                    "source": "templates\/section-gallery-full-width.json",
+                    "name": "Section Gallery Full Width"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-projects-2-columns-white-background.json",
+                    "name": "Section Projects 2 Columns White Background"
+                },
+                {
+                    "source": "templates\/section-gallery-grid.json",
+                    "name": "Section Gallery Grid"
+                },
+                {
+                    "source": "templates\/section-gallery-full-width.json",
+                    "name": "Section Gallery Full Width"
+                }
+            ],
+            "filesize": 135596,
+            "dimensions": [
+                1638,
+                2048
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "victor-2PJMDIgK9EA-unsplash.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/victor-2PJMDIgK9EA-unsplash-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home Page 1"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/gallery-grid.json",
+                    "name": "Gallery Grid"
+                },
+                {
+                    "source": "templates\/section-gallery-full-width.json",
+                    "name": "Section Gallery Full Width"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-gallery-grid.json",
+                    "name": "Section Gallery Grid"
+                },
+                {
+                    "source": "templates\/section-gallery-full-width.json",
+                    "name": "Section Gallery Full Width"
+                }
+            ],
+            "filesize": 193068,
+            "dimensions": [
+                1638,
+                2048
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "Logo-30.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/Logo-30.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 560,
+            "dimensions": [
+                30,
+                31
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "Logo_4.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/Logo_4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                },
+                {
+                    "source": "templates\/contacts-1.json",
+                    "name": "Contacts 1"
+                },
+                {
+                    "source": "templates\/section-ranking-grey-background.json",
+                    "name": "Section Ranking Grey Background"
+                },
+                {
+                    "source": "templates\/section-ranking.json",
+                    "name": "Section Ranking"
+                }
+            ],
+            "filesize": 1397,
+            "dimensions": [
+                142,
+                123
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "Logo_2.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/Logo_2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                },
+                {
+                    "source": "templates\/contacts-1.json",
+                    "name": "Contacts 1"
+                },
+                {
+                    "source": "templates\/section-ranking-grey-background.json",
+                    "name": "Section Ranking Grey Background"
+                },
+                {
+                    "source": "templates\/section-ranking.json",
+                    "name": "Section Ranking"
+                }
+            ],
+            "filesize": 2090,
+            "dimensions": [
+                176,
+                123
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "Logo_3.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/Logo_3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                },
+                {
+                    "source": "templates\/contacts-1.json",
+                    "name": "Contacts 1"
+                },
+                {
+                    "source": "templates\/section-ranking-grey-background.json",
+                    "name": "Section Ranking Grey Background"
+                },
+                {
+                    "source": "templates\/section-ranking.json",
+                    "name": "Section Ranking"
+                }
+            ],
+            "filesize": 2179,
+            "dimensions": [
+                144,
+                123
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "Logo_1.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/Logo_1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                },
+                {
+                    "source": "templates\/contacts-1.json",
+                    "name": "Contacts 1"
+                },
+                {
+                    "source": "templates\/section-ranking-grey-background.json",
+                    "name": "Section Ranking Grey Background"
+                },
+                {
+                    "source": "templates\/section-ranking.json",
+                    "name": "Section Ranking"
+                }
+            ],
+            "filesize": 1880,
+            "dimensions": [
+                94,
+                123
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "Logo_6.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/Logo_6.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                },
+                {
+                    "source": "templates\/contacts-1.json",
+                    "name": "Contacts 1"
+                },
+                {
+                    "source": "templates\/section-ranking-grey-background.json",
+                    "name": "Section Ranking Grey Background"
+                },
+                {
+                    "source": "templates\/section-ranking.json",
+                    "name": "Section Ranking"
+                }
+            ],
+            "filesize": 1028,
+            "dimensions": [
+                129,
+                121
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "shield-check.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/shield-check.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                },
+                {
+                    "source": "templates\/section-advantages-with-numbers.json",
+                    "name": "Section Advantages with Numbers"
+                }
+            ],
+            "filesize": 723,
+            "dimensions": [
+                38,
+                40
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "pencil-ruler.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/pencil-ruler.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                },
+                {
+                    "source": "templates\/section-advantages-with-numbers.json",
+                    "name": "Section Advantages with Numbers"
+                }
+            ],
+            "filesize": 573,
+            "dimensions": [
+                40,
+                40
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "hard-hat.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/hard-hat.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                },
+                {
+                    "source": "templates\/section-advantages-with-numbers.json",
+                    "name": "Section Advantages with Numbers"
+                }
+            ],
+            "filesize": 483,
+            "dimensions": [
+                40,
+                30
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "metal-tubes-ceiling-in-big-office-building-LGPQ5WB-1.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/metal-tubes-ceiling-in-big-office-building-LGPQ5WB-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                },
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-advantages-with-numbers.json",
+                    "name": "Section Advantages with Numbers"
+                }
+            ],
+            "filesize": 351717,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-LGPQ5WB"
+        },
+        {
+            "filename": "timothy-eberly-ssJRJbqAGDQ-unsplash-1.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/timothy-eberly-ssJRJbqAGDQ-unsplash-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                },
+                {
+                    "source": "templates\/projects-2.json",
+                    "name": "Projects 2"
+                },
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/gallery-grid.json",
+                    "name": "Gallery Grid"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-projects.json",
+                    "name": "Section Projects"
+                },
+                {
+                    "source": "templates\/section-advantages-with-numbers.json",
+                    "name": "Section Advantages with Numbers"
+                }
+            ],
+            "filesize": 289605,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "adria-tormo-wOBeY8IqJQE-unsplash-1.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/adria-tormo-wOBeY8IqJQE-unsplash-1-800x671.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                },
+                {
+                    "source": "templates\/section-advantages-with-numbers.json",
+                    "name": "Section Advantages with Numbers"
+                }
+            ],
+            "filesize": 178993,
+            "dimensions": [
+                2000,
+                1677
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "modern-house-in-berlin-PR9AXMX.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/modern-house-in-berlin-PR9AXMX-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                },
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/gallery-grid.json",
+                    "name": "Gallery Grid"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                }
+            ],
+            "filesize": 253514,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PR9AXMX"
+        },
+        {
+            "filename": "successful-woman-in-glasses-and-a-light-blouse-is-R2VWNAN-1.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/successful-woman-in-glasses-and-a-light-blouse-is-R2VWNAN-1-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                },
+                {
+                    "source": "templates\/section-testimonials-grey-background.json",
+                    "name": "Section Testimonials Grey Background"
+                },
+                {
+                    "source": "templates\/section-testimonials-left.json",
+                    "name": "Section Testimonials Left"
+                }
+            ],
+            "filesize": 136173,
+            "dimensions": [
+                1365,
+                2048
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-R2VWNAN"
+        },
+        {
+            "filename": "icon-phone.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/icon-phone.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                },
+                {
+                    "source": "templates\/contacts-1.json",
+                    "name": "Contacts 1"
+                },
+                {
+                    "source": "templates\/section-contacts-card.json",
+                    "name": "Section Contacts Card"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 604,
+            "dimensions": [
+                32,
+                32
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "icon-map.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/icon-map.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                },
+                {
+                    "source": "templates\/contacts-1.json",
+                    "name": "Contacts 1"
+                },
+                {
+                    "source": "templates\/section-contacts-card.json",
+                    "name": "Section Contacts Card"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 511,
+            "dimensions": [
+                24,
+                32
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "renewable-energy-concept-engineer-people-working-a-K9QSJBG-e1631257099513.jpeg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/renewable-energy-concept-engineer-people-working-a-K9QSJBG-e1631257099513-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/section-about-with-list.json",
+                    "name": "Section About with List"
+                }
+            ],
+            "filesize": 155144,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/renewable-energy-concept-engineer-people-working-a-K9QSJBG"
+        },
+        {
+            "filename": "Icon_Settings.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/Icon_Settings.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/section-quote.json",
+                    "name": "Section Quote"
+                }
+            ],
+            "filesize": 3652,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "christopher-burns-Wiu3w-99tNg-unsplash-1.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/christopher-burns-Wiu3w-99tNg-unsplash-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-services-slider.json",
+                    "name": "Section Services Slider"
+                }
+            ],
+            "filesize": 223992,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "confident-construction-engineer-architect-business-VEMAJ6G-1-e1631532752867.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/confident-construction-engineer-architect-business-VEMAJ6G-1-e1631532752867-800x714.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-team.json",
+                    "name": "Section Team"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-services-slider.json",
+                    "name": "Section Services Slider"
+                }
+            ],
+            "filesize": 183690,
+            "dimensions": [
+                1495,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VEMAJ6G"
+        },
+        {
+            "filename": "building-3Z6H5G8-1.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2020\/08\/building-3Z6H5G8-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/section-services-slider.json",
+                    "name": "Section Services Slider"
+                }
+            ],
+            "filesize": 322976,
+            "dimensions": [
+                1500,
+                999
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-3Z6H5G8"
+        },
+        {
+            "filename": "electricial-at-construction-site-UVFY3HH-1.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/electricial-at-construction-site-UVFY3HH-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/section-services-slider.json",
+                    "name": "Section Services Slider"
+                }
+            ],
+            "filesize": 171508,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UVFY3HH"
+        },
+        {
+            "filename": "welder-works-with-metal-on-factory-welding-skill-8V8QAYS-1.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/welder-works-with-metal-on-factory-welding-skill-8V8QAYS-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-services-slider.json",
+                    "name": "Section Services Slider"
+                }
+            ],
+            "filesize": 219426,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-8V8QAYS"
+        },
+        {
+            "filename": "Icon-layer_white.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/Icon-layer_white.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/section-advantages-white-background.json",
+                    "name": "Section Advantages White Background"
+                }
+            ],
+            "filesize": 709,
+            "dimensions": [
+                70,
+                68
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "Icon-settings-white.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/Icon-settings-white.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/section-advantages-white-background.json",
+                    "name": "Section Advantages White Background"
+                }
+            ],
+            "filesize": 1402,
+            "dimensions": [
+                70,
+                72
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "Icon-analytics-white.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/Icon-analytics-white.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/section-advantages-white-background.json",
+                    "name": "Section Advantages White Background"
+                }
+            ],
+            "filesize": 874,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "Icon-lamp-white.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/Icon-lamp-white.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/section-advantages-white-background.json",
+                    "name": "Section Advantages White Background"
+                }
+            ],
+            "filesize": 1038,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "Icon-share_white.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/Icon-share_white.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/section-advantages-white-background.json",
+                    "name": "Section Advantages White Background"
+                }
+            ],
+            "filesize": 1019,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "portrait-of-a-foreman-on-construction-background-PU4UJZD-1-e1631532841521.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/portrait-of-a-foreman-on-construction-background-PU4UJZD-1-e1631532841521-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/section-team.json",
+                    "name": "Section Team"
+                },
+                {
+                    "source": "templates\/section-testimonials-grey-background.json",
+                    "name": "Section Testimonials Grey Background"
+                }
+            ],
+            "filesize": 166735,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PU4UJZD"
+        },
+        {
+            "filename": "shield-check-1.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/shield-check-1.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 681,
+            "dimensions": [
+                38,
+                40
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "pencil-ruler-1.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/pencil-ruler-1.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 566,
+            "dimensions": [
+                40,
+                40
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "hard-hat-1.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/hard-hat-1.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 464,
+            "dimensions": [
+                40,
+                30
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "factory-workers-and-production-process-PHSVTCR-1.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/factory-workers-and-production-process-PHSVTCR-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                }
+            ],
+            "filesize": 226252,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PHSVTCR"
+        },
+        {
+            "filename": "team-of-construction-engineers-architects-working-VL4PG24-1-e1631518865334.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/team-of-construction-engineers-architects-working-VL4PG24-1-e1631518865334-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-image-with-progress-bar.json",
+                    "name": "Section Image with Progress Bar"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                }
+            ],
+            "filesize": 218836,
+            "dimensions": [
+                2000,
+                1334
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VL4PG24"
+        },
+        {
+            "filename": "dimitry-anikin-o2Q3EKUL3wI-unsplash.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/dimitry-anikin-o2Q3EKUL3wI-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects-1.json",
+                    "name": "Projects 1"
+                },
+                {
+                    "source": "templates\/projects-2.json",
+                    "name": "Projects 2"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                },
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-projects.json",
+                    "name": "Section Projects"
+                },
+                {
+                    "source": "templates\/section-projects-2-columns-white-background.json",
+                    "name": "Section Projects 2 Columns White Background"
+                }
+            ],
+            "filesize": 282625,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "crystal-kwok-XUEdfpPIhXg-unsplash.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/crystal-kwok-XUEdfpPIhXg-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects-1.json",
+                    "name": "Projects 1"
+                },
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-projects-2-columns-white-background.json",
+                    "name": "Section Projects 2 Columns White Background"
+                }
+            ],
+            "filesize": 250065,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "kevin-schmid-B496MVE6IAo-unsplash.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/kevin-schmid-B496MVE6IAo-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects-1.json",
+                    "name": "Projects 1"
+                },
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/gallery-grid.json",
+                    "name": "Gallery Grid"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                }
+            ],
+            "filesize": 297696,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "office-skyscrapers-in-moscow-business-centre-at-su-PTQHNNR-1.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/office-skyscrapers-in-moscow-business-centre-at-su-PTQHNNR-1-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects-1.json",
+                    "name": "Projects 1"
+                },
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                }
+            ],
+            "filesize": 314934,
+            "dimensions": [
+                2000,
+                1125
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PTQHNNR"
+        },
+        {
+            "filename": "etienne-beauregard-riverin-B0aCvAVSX8E-unsplash.png",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/etienne-beauregard-riverin-B0aCvAVSX8E-unsplash-800x535.png",
+            "templates": [
+                {
+                    "source": "templates\/projects-2.json",
+                    "name": "Projects 2"
+                },
+                {
+                    "source": "templates\/section-offer.json",
+                    "name": "Section Offer"
+                }
+            ],
+            "filesize": 318923,
+            "dimensions": [
+                2000,
+                1338
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "the-interior-of-modern-cafe-GYKJ6WN-1.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/the-interior-of-modern-cafe-GYKJ6WN-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects-2.json",
+                    "name": "Projects 2"
+                },
+                {
+                    "source": "templates\/section-projects.json",
+                    "name": "Section Projects"
+                },
+                {
+                    "source": "templates\/section-gallery-grid.json",
+                    "name": "Section Gallery Grid"
+                }
+            ],
+            "filesize": 216926,
+            "dimensions": [
+                2000,
+                1334
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-GYKJ6WN"
+        },
+        {
+            "filename": "engineer-working-ZVJVDHP-1-e1631532810827.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/engineer-working-ZVJVDHP-1-e1631532810827-800x598.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/section-team.json",
+                    "name": "Section Team"
+                }
+            ],
+            "filesize": 160545,
+            "dimensions": [
+                1785,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZVJVDHP"
+        },
+        {
+            "filename": "professional-architect-woman-standing-outdoors-Y43UL4W-e1631532860430.jpeg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/professional-architect-woman-standing-outdoors-Y43UL4W-e1631532860430-800x670.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/section-team.json",
+                    "name": "Section Team"
+                }
+            ],
+            "filesize": 112902,
+            "dimensions": [
+                1595,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com"
+        },
+        {
+            "filename": "confident-factory-investor-in-hardhat-PAW2LYJ-1-e1631532971215.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/confident-factory-investor-in-hardhat-PAW2LYJ-1-e1631532971215-800x691.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/section-team.json",
+                    "name": "Section Team"
+                }
+            ],
+            "filesize": 115359,
+            "dimensions": [
+                1545,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PAW2LYJ"
+        },
+        {
+            "filename": "modern-engineer-QYGTLK8-1-e1631532828269.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/modern-engineer-QYGTLK8-1-e1631532828269-800x844.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/section-team.json",
+                    "name": "Section Team"
+                }
+            ],
+            "filesize": 68788,
+            "dimensions": [
+                1265,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QYGTLK8"
+        },
+        {
+            "filename": "dimitry-anikin-R_GpfM2-4ng-unsplash.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/dimitry-anikin-R_GpfM2-4ng-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                }
+            ],
+            "filesize": 337845,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "the-interior-of-modern-cafe-GYKJ6WN.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/the-interior-of-modern-cafe-GYKJ6WN-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/gallery-grid.json",
+                    "name": "Gallery Grid"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                }
+            ],
+            "filesize": 216926,
+            "dimensions": [
+                2000,
+                1334
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-GYKJ6WN"
+        },
+        {
+            "filename": "simone-hutsch-XTyNwgCYWTk-unsplash.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/simone-hutsch-XTyNwgCYWTk-unsplash-800x978.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                }
+            ],
+            "filesize": 142601,
+            "dimensions": [
+                1675,
+                2048
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "businessman-and-engineer-discussing-some-project-CAD4KRH.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2020\/08\/businessman-and-engineer-discussing-some-project-CAD4KRH-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                }
+            ],
+            "filesize": 184221,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-CAD4KRH"
+        },
+        {
+            "filename": "mature-engineer-AUPXV74-1.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2020\/08\/mature-engineer-AUPXV74-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                }
+            ],
+            "filesize": 172768,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AUPXV74"
+        },
+        {
+            "filename": "simone-hutsch-LsjED2XpfL8-unsplash-1.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/simone-hutsch-LsjED2XpfL8-unsplash-1-800x976.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                }
+            ],
+            "filesize": 77171,
+            "dimensions": [
+                1679,
+                2048
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "the-better-way-to-weld-hand-in-glove-hold-welding-HQ2WPQY.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2020\/08\/the-better-way-to-weld-hand-in-glove-hold-welding-HQ2WPQY-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                }
+            ],
+            "filesize": 220021,
+            "dimensions": [
+                2000,
+                1125
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-HQ2WPQY"
+        },
+        {
+            "filename": "thisisengineering-raeng-nyAzMQ6Ejgs-unsplash-1.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2020\/08\/thisisengineering-raeng-nyAzMQ6Ejgs-unsplash-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                }
+            ],
+            "filesize": 170088,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "work-of-engineers-DRA4C8B.jpeg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2020\/08\/work-of-engineers-DRA4C8B-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                }
+            ],
+            "filesize": 147630,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/ru\/work-of-engineers-DRA4C8B"
+        },
+        {
+            "filename": "industrial-engineering-technology-QNEWC32-1.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2020\/08\/industrial-engineering-technology-QNEWC32-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                }
+            ],
+            "filesize": 257901,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-QNEWC32"
+        },
+        {
+            "filename": "kevin-woblick-WyDfrTfEFSE-unsplash-1.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2020\/08\/kevin-woblick-WyDfrTfEFSE-unsplash-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                }
+            ],
+            "filesize": 264078,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "urban-buildings-TKX45BE-1.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2020\/08\/urban-buildings-TKX45BE-1-800x640.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                }
+            ],
+            "filesize": 348133,
+            "dimensions": [
+                2000,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-TKX45BE"
+        },
+        {
+            "filename": "matt-reames-U6WuKgCYbKE-unsplash.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/matt-reames-U6WuKgCYbKE-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                }
+            ],
+            "filesize": 192065,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "luke-van-zyl-koH7IVuwRLw-unsplash.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/luke-van-zyl-koH7IVuwRLw-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-masonry.json",
+                    "name": "Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-gallery-masonry.json",
+                    "name": "Section Gallery Masonry"
+                },
+                {
+                    "source": "templates\/section-gallery-grid.json",
+                    "name": "Section Gallery Grid"
+                },
+                {
+                    "source": "templates\/section-gallery-full-width.json",
+                    "name": "Section Gallery Full Width"
+                }
+            ],
+            "filesize": 214833,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "dimitry-anikin-ATyawSn-NsE-unsplash.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/dimitry-anikin-ATyawSn-NsE-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-grid.json",
+                    "name": "Gallery Grid"
+                }
+            ],
+            "filesize": 289991,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "office-building-skyscraper-9SZ55J3-1.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2020\/08\/office-building-skyscraper-9SZ55J3-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/section-gallery-grid.json",
+                    "name": "Section Gallery Grid"
+                },
+                {
+                    "source": "templates\/section-gallery-full-width.json",
+                    "name": "Section Gallery Full Width"
+                }
+            ],
+            "filesize": 321622,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-9SZ55J3"
+        },
+        {
+            "filename": "landscape-silver-modern-power-tower-cloudy-sky-1-1-e1631540653752.jpg",
+            "thumbnail_url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/landscape-silver-modern-power-tower-cloudy-sky-1-1-e1631540653752-800x364.jpg",
+            "templates": [
+                {
+                    "source": "templates\/error-page.json",
+                    "name": "Error page"
+                }
+            ],
+            "filesize": 56608,
+            "dimensions": [
+                2000,
+                910
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        }
+    ]
+}

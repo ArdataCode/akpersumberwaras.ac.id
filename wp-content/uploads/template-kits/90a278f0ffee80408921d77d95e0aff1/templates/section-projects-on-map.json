@@ -1,0 +1,789 @@
+{
+    "version": "0.4",
+    "title": "Section Projects on Map",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-other",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "48ecc7a1",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "180",
+                    "right": "0",
+                    "bottom": "180",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "gap": "no",
+                "structure": "20",
+                "_title": "Map",
+                "margin_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "20",
+                    "bottom": "100",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "15",
+                    "bottom": "100",
+                    "left": "15",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "56c78b3",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 59.923000000000001818989403545856475830078125,
+                        "content_position": "center",
+                        "space_between_widgets": 0,
+                        "_inline_size_tablet": 100,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "14e0e11c",
+                            "settings": {
+                                "width": {
+                                    "unit": "px",
+                                    "size": 40,
+                                    "sizes": []
+                                },
+                                "text": "Divider",
+                                "weight": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "20",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_element_width": "auto",
+                                "__globals__": {
+                                    "color": "globals\/colors?id=primary"
+                                },
+                                "_animation": "fadeInLeft",
+                                "animation_duration": "slow"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4c41adbb",
+                            "settings": {
+                                "title": "where we do",
+                                "header_size": "h6",
+                                "_element_width": "auto",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=text",
+                                    "typography_typography": "globals\/typography?id=28b1aea"
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 400
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6fb69c8e",
+                            "elType": "widget",
+                            "settings": {
+                                "eael_show_dch_icon_content": "",
+                                "eael_dch_icon_new": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "eael_dch_first_title": "Our Project",
+                                "eael_dch_last_title": " in the World",
+                                "eael_dch_subtext": "",
+                                "eael_dch_content_alignment": "left",
+                                "eael_dch_container_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "eael_dch_container_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "40",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "eael_dch_dual_title_color": "globals\/colors?id=secondary",
+                                    "eael_dch_first_title_typography_typography": "globals\/typography?id=secondary",
+                                    "eael_dch_base_title_color": "globals\/colors?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "widgetType": "eael-dual-color-header"
+                        },
+                        {
+                            "id": "4b7f5e63",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/axial-construct.templatekit.co\/wp-content\/uploads\/sites\/7\/2021\/09\/Map_1.png",
+                                    "id": 203,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "hotspot": [
+                                    {
+                                        "hotspot_custom_size": "",
+                                        "hotspot_width": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "hotspot_tooltip_content": "Reconstruction of Old <br>Factory Building\u200b",
+                                        "hotspot_offset_x": {
+                                            "unit": "%",
+                                            "size": 19,
+                                            "sizes": []
+                                        },
+                                        "hotspot_offset_y": {
+                                            "unit": "%",
+                                            "size": 74,
+                                            "sizes": []
+                                        },
+                                        "hotspot_tooltip_position": "",
+                                        "_id": "a707eed"
+                                    },
+                                    {
+                                        "hotspot_custom_size": "",
+                                        "hotspot_width": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "hotspot_tooltip_content": "Fresh Concept <br>Construction Renovation",
+                                        "hotspot_offset_x": {
+                                            "unit": "%",
+                                            "size": 24,
+                                            "sizes": []
+                                        },
+                                        "hotspot_offset_y": {
+                                            "unit": "%",
+                                            "size": 27,
+                                            "sizes": []
+                                        },
+                                        "hotspot_tooltip_position": "",
+                                        "_id": "f3e7c66"
+                                    },
+                                    {
+                                        "hotspot_custom_size": "",
+                                        "hotspot_width": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "hotspot_tooltip_content": "Installation a Supply System\u200b",
+                                        "hotspot_offset_x": {
+                                            "unit": "%",
+                                            "size": 63,
+                                            "sizes": []
+                                        },
+                                        "hotspot_offset_y": {
+                                            "unit": "%",
+                                            "size": 82,
+                                            "sizes": []
+                                        },
+                                        "hotspot_tooltip_position": "",
+                                        "_id": "6d39147"
+                                    },
+                                    {
+                                        "hotspot_custom_size": "",
+                                        "hotspot_width": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "hotspot_tooltip_content": "Fresh Concept <br>Construction Renovation",
+                                        "hotspot_offset_x": {
+                                            "unit": "%",
+                                            "size": 34,
+                                            "sizes": []
+                                        },
+                                        "hotspot_offset_y": {
+                                            "unit": "%",
+                                            "size": 44,
+                                            "sizes": []
+                                        },
+                                        "hotspot_tooltip_position": "",
+                                        "_id": "3d9e454"
+                                    },
+                                    {
+                                        "hotspot_custom_size": "",
+                                        "hotspot_width": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "hotspot_tooltip_content": "Reconstruction of Old<br> Factory Building\u200b",
+                                        "hotspot_offset_x": {
+                                            "unit": "%",
+                                            "size": 90,
+                                            "sizes": []
+                                        },
+                                        "hotspot_offset_y": {
+                                            "unit": "%",
+                                            "size": 86,
+                                            "sizes": []
+                                        },
+                                        "hotspot_tooltip_position": "",
+                                        "_id": "ddc4a51"
+                                    },
+                                    {
+                                        "hotspot_custom_size": "",
+                                        "hotspot_width": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "hotspot_tooltip_content": "Jazzy Elite Construction <br> Shopping Center\u200b",
+                                        "hotspot_offset_x": {
+                                            "unit": "%",
+                                            "size": 82,
+                                            "sizes": []
+                                        },
+                                        "hotspot_offset_y": {
+                                            "unit": "%",
+                                            "size": 65,
+                                            "sizes": []
+                                        },
+                                        "hotspot_tooltip_position": "",
+                                        "_id": "71a0f28"
+                                    },
+                                    {
+                                        "hotspot_custom_size": "",
+                                        "hotspot_width": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "hotspot_tooltip_content": "Fresh Concept <br>Construction Renovation",
+                                        "hotspot_offset_x": {
+                                            "unit": "%",
+                                            "size": 60,
+                                            "sizes": []
+                                        },
+                                        "hotspot_offset_y": {
+                                            "unit": "%",
+                                            "size": 55,
+                                            "sizes": []
+                                        },
+                                        "hotspot_tooltip_position": "",
+                                        "_id": "64dce27"
+                                    }
+                                ],
+                                "tooltip_trigger": "mouseenter",
+                                "tooltip_animation": "e-hotspot--fade-grow",
+                                "tooltip_animation_duration": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "style_tooltip_align": "left",
+                                "style_tooltip_padding": {
+                                    "unit": "px",
+                                    "top": "020",
+                                    "right": "30",
+                                    "bottom": "20",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "-180",
+                                    "isLinked": false
+                                },
+                                "_animation": "zoomIn",
+                                "animation_duration": "slow",
+                                "__globals__": {
+                                    "style_tooltip_typography_typography": "globals\/typography?id=3e6c3cd",
+                                    "style_tooltip_text_color": "globals\/colors?id=22691d7"
+                                },
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "style_hotspot_height": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "style_hotspot_padding": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "hotspot",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "3014105c",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 38.39399999999999835154085303656756877899169921875,
+                        "content_position": "top",
+                        "space_between_widgets": 0,
+                        "_inline_size_tablet": 100,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "40",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "3bd9848c",
+                            "settings": {
+                                "editor": "Molestie nunc non blandit massa. Lacus sed viverra tellus in hac habitasse platea. Velit egestas dui id ornare arcu. Sapien pellentesque habitant morbi tristique senectus et netus. Ut consequat semper viverra nam libero. Convallis aenean et tortor at",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "80",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=fbe49a0",
+                                    "text_color": "globals\/colors?id=accent"
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "30",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6ba2ab5a",
+                            "settings": {
+                                "gap": "no",
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "556c976f",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50,
+                                        "space_between_widgets": 0,
+                                        "_inline_size_mobile": 50,
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "15",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3ab99962",
+                                            "settings": {
+                                                "ending_number": 200,
+                                                "suffix": "+",
+                                                "title": "",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "number_color": "globals\/colors?id=secondary",
+                                                    "typography_number_typography": "globals\/typography?id=7ad6c9d",
+                                                    "title_color": "globals\/colors?id=accent",
+                                                    "typography_title_typography": "globals\/typography?id=3e6c3cd"
+                                                },
+                                                "_element_width_tablet": "inherit",
+                                                "_margin_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "10",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "counter",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "84fcfdd",
+                                            "settings": {
+                                                "editor": "Active Projects <br>in \u2028Civil Engineering",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "60",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_element_width_tablet": "auto",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=3e6c3cd"
+                                                },
+                                                "_margin_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "40",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "7c5dc41c",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50,
+                                        "space_between_widgets": 0,
+                                        "_inline_size_mobile": 50,
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "15",
+                                            "isLinked": false
+                                        },
+                                        "hide_desktop": "hidden-desktop"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4e67239b",
+                                            "settings": {
+                                                "ending_number": 99,
+                                                "suffix": "%",
+                                                "title": "",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "number_color": "globals\/colors?id=secondary",
+                                                    "typography_number_typography": "globals\/typography?id=7ad6c9d",
+                                                    "title_color": "globals\/colors?id=accent",
+                                                    "typography_title_typography": "globals\/typography?id=3e6c3cd"
+                                                },
+                                                "_element_width_tablet": "inherit",
+                                                "_margin_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "10",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "counter",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "4f2141b2",
+                                            "settings": {
+                                                "editor": "Active Projects <br>in \u2028Civil Engineering",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "60",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_element_width_tablet": "auto",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=3e6c3cd"
+                                                },
+                                                "_margin_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "40",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "6153a520",
+                            "settings": {
+                                "gap": "no",
+                                "hide_mobile": "hidden-mobile"
+                            },
+                            "elements": [
+                                {
+                                    "id": "7d14c1",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50,
+                                        "space_between_widgets": 0,
+                                        "hide_tablet": "hidden-tablet"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "57a9dd6e",
+                                            "settings": {
+                                                "ending_number": 99,
+                                                "suffix": "%",
+                                                "title": "",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "number_color": "globals\/colors?id=secondary",
+                                                    "typography_number_typography": "globals\/typography?id=7ad6c9d",
+                                                    "title_color": "globals\/colors?id=accent",
+                                                    "typography_title_typography": "globals\/typography?id=3e6c3cd"
+                                                },
+                                                "_element_width_tablet": "inherit",
+                                                "_margin_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "10",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "counter",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "51a6a687",
+                                            "settings": {
+                                                "editor": "Active Projects<br>\nin \u2028Civil Engineering",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "80",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_element_width_tablet": "auto",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=3e6c3cd"
+                                                },
+                                                "_margin_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "40",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "42e01f87",
+                            "settings": {
+                                "text": "CONSULT NOW",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "text_padding": {
+                                    "unit": "px",
+                                    "top": "18",
+                                    "right": "30",
+                                    "bottom": "18",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "button_text_color": "globals\/colors?id=text",
+                                    "background_color": "globals\/colors?id=primary",
+                                    "typography_typography": "globals\/typography?id=28b1aea"
+                                },
+                                "hover_animation": "bob",
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 1000,
+                                "align_mobile": "justify"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_canvas"
+    }
+}
